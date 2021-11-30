@@ -41,3 +41,18 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Cielo
+    uniqueID: 1892452939
+    locked: 0
+  - name: Paisaje
+    uniqueID: 3100122655
+    locked: 0
+  - name: BG
+    uniqueID: 99487407
+    locked: 0
+  - name: Game
+    uniqueID: 1224703115
+    locked: 0
+  - name: FG
+    uniqueID: 3963007881
+    locked: 0
