@@ -35,7 +35,7 @@ public class AnubisMove : MonoBehaviour
             
         }
 
-        if (rb.velocity.y < 0.15f)
+        if (rb.velocity.y < -0.15f)
         {
             ani.SetBool("IsFalling", true);
         }
